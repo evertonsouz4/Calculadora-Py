@@ -30,5 +30,7 @@ elif escolha == 3:
 elif escolha == 4:
     valor7 = int(input('\nDigite o primeiro número: '))
     valor8 = int(input('Digite o segundo número: '))
-    subtr = valor7 * valor8
-    print(f'O resultado de {valor5} * {valor6} é {multiply}.')
+    divisao = valor7 // valor8
+    resto = valor7 % valor8
+    print(f'O resultado de {valor7} / {valor8} é {divisao}.')
+    print(f'O resto é {resto}')
