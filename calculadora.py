@@ -1,7 +1,7 @@
 # Calculadora básica #
 
 print('CALCULADORA PYTHON\n')
-print('Escolha ma das opções a baixo para calcular:\n')
+print('Escolha uma das opções a baixo para calcular:\n')
 print('1- Soma')
 print('2- Subtração')
 print('3- Multiplicação')
