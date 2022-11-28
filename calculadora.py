@@ -26,3 +26,9 @@ elif escolha == 3:
     valor6 = int(input('Digite o segundo número: '))
     multiply = valor5 * valor6
     print(f'O resultado de {valor5} * {valor6} é {multiply}.')
+
+elif escolha == 4:
+    valor7 = int(input('\nDigite o primeiro número: '))
+    valor8 = int(input('Digite o segundo número: '))
+    subtr = valor7 * valor8
+    print(f'O resultado de {valor5} * {valor6} é {multiply}.')
